@@ -1,0 +1,5 @@
+langchain
+PyMuPDF
+PyPDF2
+pdfplumber
+python-docx
